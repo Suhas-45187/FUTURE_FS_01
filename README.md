@@ -1,16 +1,43 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal professional portfolio website built as a part of the Future Interns Full Stack Development Internship.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View My Portfolio](https://vercel.com/suhas-45187/future-fs-01)
 
-## React Compiler
+## 📌 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project showcases my professional introduction, technical skills, projects, and internships experience through a personal portfolio website.
 
-## Expanding the ESLint configuration
+The website uses a modern dark-themed design and provides visitors with an overview of my background and web development journey.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Professional introduction
+- Technical skills section
+- Projects showcase
+- Internship information
+- Contact section
+- Dark-themed user interface
+- Responsive layout
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+## 💻 Run Locally
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+- Contact section
+- Dark-themed user interface
+- Responsive layout
